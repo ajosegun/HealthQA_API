@@ -1,0 +1,9 @@
+sentence-transformers
+torch
+streamlit
+streamlit-chat
+pandas
+numpy
+fastapi
+uvicorn
+
