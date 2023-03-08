@@ -75,6 +75,14 @@ app = FastAPI(
     version="0.1",
 )
 
+@app.get("/")
+def welcome():
+    
+    # show results
+    result = {"home": "Welcome"}
+    
+    return result
+
 @app.get("/answer")
 def get_single_answer(question: str):
     """
