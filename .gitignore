@@ -1,6 +1,7 @@
 venv/
 __pycache__/
 core.py
+df_health_ds.pkl
 main.py
 test.py
 .DS_Store

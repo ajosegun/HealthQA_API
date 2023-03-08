@@ -1,8 +1,5 @@
 sentence-transformers
-torch
-streamlit
-streamlit-chat
-pandas
+pandas==1.3.5
 numpy
 fastapi
 uvicorn
