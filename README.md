@@ -8,6 +8,10 @@ It is advanced compared to traditional conversational chatbots as it generates i
 
 Unlike traditional methods where the chatbot relies on pre-stored replies for a set of expected questions, HealthAQ generates its own responses based on the context of the user's query.
 
+# Model:
+
+The step by step build process is available in the 2 notebooks in this repo.
+
 # Installation:
 
 To use the API, you can follow these steps:
