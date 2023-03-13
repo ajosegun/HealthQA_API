@@ -26,10 +26,15 @@ Navigate to the cloned directory using the command line
 
 Install the required packages by running the command 
 
-```pip install -r requirements.txt```
+```
+pip install -r requirements.txt
+```
 
 Start the server by running the command 
-```uvicorn main:app --reload```
+
+```
+uvicorn main:app --reload
+```
 
 ### Conclusion:
 
